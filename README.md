@@ -1,18 +1,10 @@
-# ELEVENLABSHACKATHON
+AI Chatbot for Candidate Screening and Recruitment
+This AI-powered Chatbot is designed to streamline the candidate screening and recruitment process. It leverages Natural Language Processing (NLP) to parse resumes and match job descriptions with top candidates. The Chatbot offers both text and voice input options for user convenience. Users can input job keywords or use speech recognition to provide job descriptions. The Chatbot then recommends the top candidates based on the job requirements and allows bulk sending of acceptance/rejection emails. Streamlit is used to create an interactive web application for hosting the Chatbot. The project aims to improve the efficiency and accuracy of the recruitment process.
 
-# I made an AI CHATBOT which is capable of parsing resumes and able to recommend top candidates on basis of job description.
-# AI CHAT BOT is also able to send Acceptance/Rejection Mails to Candidates in bulk. OUR CHATBOT IS EQUIPPED WITH VOICE ASSISTANCE.
+Features:
 
-#INPUT
-## JOB-REQUIRED-KEYWORDS
-
-#OUTPUT
-## TOP CANDIDATES ON BASIS OF JOB-REQUIRED-KEYWORDS
-### SENDING OF ACCEPTANCE MAILS FOR INTERVIEW TO CANDIDATES
-
-#Technology Used
-## ELEVENLABS
-## GOOGLE CLOUD NLP
-## GOOGLE CLOUD SPEECH-TO-TEXT-API
-## GOOGLE CLOUD TEXT-TO-SPEECH-API
-## VECTOR EMBEDDINGS FOR CALCULATING SIMLAIRTY INDEX BETWEEN EXTRACTED KEYWORDS FROM RESUME AND JOB-KEYWORDS.
+Resume parsing and candidate matching
+Text and voice-based input methods
+Bulk email sending for acceptance/rejection
+Interactive web interface using Streamlit
+Technologies used: Python, Natural Language Processing (NLP) libraries, Streamlit, SpeechRecognition, SMTP (for email sending).
