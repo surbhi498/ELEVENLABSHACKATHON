@@ -54,6 +54,7 @@ oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging==23.1
 pandas==2.0.3
+PyAudio==0.2.13
 Pillow==9.5.0
 proto-plus==1.22.3
 protobuf==4.23.4
