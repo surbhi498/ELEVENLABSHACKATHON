@@ -3,9 +3,7 @@ import pyttsx4
 import speech_recognition as sr
 from res import jk
 from res import send_email
-from STT import audio_stream
 from tty_1 import speech_to_text
-from teststt import record_audio, transcribe_audio
 import uuid
 # Function for text-to-speech
 def text_to_speech(message):
