@@ -1,6 +1,8 @@
 # AI Chatbot for Candidate Screening and Recruitment
 
 ![Chatbot Demo](/path/to/demo.gif)
+[Check out our project on Eleven Labs AI Hackathon](https://lablab.ai/event/eleven-labs-ai-hackathon/elevenlabscreation/hrtech)
+
 
 ## Table of Contents
 
