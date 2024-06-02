@@ -45,8 +45,7 @@ pip install -r requirements.txt
 
 4. Run the Chatbot using Streamlit.
 
-
-streamlit run CHATBOTAI.py 
+ streamlit run CHATBOTAI.py 
 
 ## Usage
 
